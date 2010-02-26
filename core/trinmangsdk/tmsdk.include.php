@@ -1,0 +1,12 @@
+<?php
+	require_once("tmsdk.config.php");
+	require_once("tmsdk.class.php");
+	require_once("tmsdk.conndb.php");
+	require_once("tmsdk.account.php");
+	require_once("tmsdk.char.php");
+	require_once("tmsdk.guild.php");
+	require_once("tmsdk.arenateam.php");
+	require_once("tmsdk.ticket.php");
+	require_once("tmsdk.rasocket.php");
+	require_once("tmsdk.creature.php");
+?>
